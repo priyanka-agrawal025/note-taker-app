@@ -8,7 +8,7 @@ const app = express();
 const adapter = new fileSync('./db/db.json');
 const db = lowdb(adapter);
 
-const PORT = process.env.PORT;
+const PORT = 3001;
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
