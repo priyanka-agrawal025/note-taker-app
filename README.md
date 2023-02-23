@@ -9,8 +9,8 @@
 ## Usage
 ![Screeshot](Assets/note-app.png)
 
-+ Link to Deployed Webpage Heroku: 
-+ Link to Github Repo: https://github.com/priyanka-agrawal025/dynamic-logo-generator
++ Link to Deployed Webpage Heroku: https://limitless-springs-54137.herokuapp.com/
++ Link to Github Repo: https://github.com/priyanka-agrawal025/note-taker-app
 
 ## Credits
 + There were no collaborators on this project
